@@ -15,7 +15,7 @@
 
     <name>mssc-beer-service</name>
 
-    <description>MSSC Beer Service</description>
+    <description>MSSC Beer Service test</description>
 
     <dependencies>
         <dependency>
